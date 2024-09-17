@@ -1,20 +1,30 @@
-Nome do projeto: Documento Único
+# Documento Único (DU)
 
-Status do Projeto: (em desenvolvimento)
+## Descrição:
+O Documento Único (DU) é uma inovadora solução de software projetada para simplificar o processo de cadastro em plataformas online. 
+Este repositório contém o código-fonte completo e a documentação para o DU, uma ferramenta que permite aos usuários unificar todos os seus documentos físicos em um único ambiente virtual.
 
-Tecnologias utilizadas: Linguagem de Programação JAVA, IDE Java NetBeans, MySQL.
+## Recursos Principais:
+- Cadastro simplificado de novos usuários.
+- Inserção intuitiva de dados de documentos.
+- Geração de um número de documento único com base nos dados fornecidos.
 
-Autor: Samuel Lima de Oliveira
+## Requisitos Não-Funcionais:
+- Compatível com Windows 7 ou superior (64-bit obrigatório).
+- Utiliza criptografia de dados e autenticação de duas etapas para garantir a segurança.
+- Funciona em qualquer plataforma desktop.
+- Requer conexão com a internet para operação.
 
-Objetivos: O Documento Único é destinado para todos aqueles que querem realizar seus cadastros em qualquer
-tipo de site ou plataforma de forma menos burocrática, mais rápida e eficiente.
+## Regras de Negócios:
+- O DU será gerado somente se todas as informações inseridas estiverem corretas, incluindo confirmação de e-mail e senha.
 
-Requisitos:
-Cadastramento de novos usuários;
-Inserção de dados de documentos;
-Criação de um número de documento único, com base nos dados informados.
+## Tecnologias utilizadas: 
+- Linguagem de Programação JAVA
+- MySQL.
 
+## Licença:
+Freeware - O Documento Único é disponibilizado gratuitamente para uso pessoal e comercial.
 
-COMO EXECUTAR O PROGRAMA?
+## COMO EXECUTAR O PROGRAMA?
 - Para executar corretamente o programa, deve-se primeiramente criar o Banco de Dados à partir do arquivo 'PI-Atividades',
 - Após a criação do BD, executar o atalho 'Documento Único'.
